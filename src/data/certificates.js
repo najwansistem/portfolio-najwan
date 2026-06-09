@@ -49,7 +49,7 @@ export const certificates = [
   },
   {
     "title": "AI Essentials DEX AWS Nasional",
-    "issuer": "AI Learning Program",
+    "issuer": "AWS Academy",
     "year": "2025-2026",
     "category": "Cloud",
     "image": "/certificates/previews/sertifikat-ai-essentials-dex-aws-nasional.jpg",
@@ -169,7 +169,7 @@ export const certificates = [
   },
   {
     "title": "Discover the Art of Prompting",
-    "issuer": "AI Learning Program",
+    "issuer": "Google / Coursera",
     "year": "2025-2026",
     "category": "AI",
     "image": "/certificates/previews/sertifikat-discover-the-art-of-prompting.jpg",
