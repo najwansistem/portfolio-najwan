@@ -35,17 +35,14 @@ function About() {
 
         <div className="info-grid three-columns">
           <div className="info-card">
-            <span>01</span>
             <h3>Education</h3>
             <p>Informatics student with experience in web, data, and information systems.</p>
           </div>
           <div className="info-card">
-            <span>02</span>
             <h3>Interest</h3>
-            <p>Web development, data analysis, forecasting system, and practical software.</p>
+            <p>Web development, data analyst, data science, forecasting system, and practical software.</p>
           </div>
           <div className="info-card">
-            <span>03</span>
             <h3>Goal</h3>
             <p>Create digital products that solve real problems and are easy to use.</p>
           </div>
