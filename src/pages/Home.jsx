@@ -46,7 +46,7 @@ function Home() {
               <div className="profile-card-content">
                 <span className="profile-tag">Candidate Portfolio</span>
                 <h2>Najwan Mursyidan</h2>
-                <p>Focused on web systems, data processing, and practical digital solutions.</p>
+                <p>Focused on web systems, data analyst, and practical digital solutions.</p>
                 <div className="mini-grid">
                   <div>
                     <strong>3</strong>
