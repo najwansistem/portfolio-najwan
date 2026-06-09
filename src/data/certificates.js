@@ -41,7 +41,7 @@ export const certificates = [
   },
   {
     "title": "SIW 2026 Certificate",
-    "issuer": "Startup Innovation Week 2026",
+    "issuer": "Sharia Investment Week 2026",
     "year": "2026",
     "category": "Event",
     "image": "/certificates/previews/siw2026-cert.jpg",
