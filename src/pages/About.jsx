@@ -26,8 +26,8 @@ function About() {
             </p>
             <p>
               I want to keep improving my ability to design digital products that are simple,
-              functional, and helpful for users. Through Apple Developer Academy, I want to
-              learn more about product thinking, user experience, teamwork, and application
+              functional, and helpful for users. I want to learn more about product thinking, 
+              user experience, teamwork, and application
               development.
             </p>
           </div>
