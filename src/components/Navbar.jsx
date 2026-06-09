@@ -23,7 +23,7 @@ function Navbar() {
       <div className="container nav-inner">
         <Link to="/" className="brand" aria-label="Najwan Mursyidan Portfolio">
           <span className="brand-mark">N</span>
-          <span>Najwan</span>
+          <span>NAJWAN MURSYIDAN</span>
         </Link>
 
         <button
@@ -38,7 +38,7 @@ function Navbar() {
           <span />
         </button>
 
-        <nav className={`nav-menu ${isOpen ? 'is-open' : ''}`}>
+        <nav className={`nav-menu ${isOpen ? 'is-open' : ''}`} style={{ '--items': navItems.length }}>
           {navItems.map((item) => (
             <NavLink
               key={item.path}
@@ -56,6 +56,7 @@ function Navbar() {
               {item.label}
             </NavLink>
           ))}
+          <span className="nav-hover-line" aria-hidden="true" />
         </nav>
       </div>
     </header>
