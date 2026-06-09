@@ -161,10 +161,10 @@ function ProjectDetail() {
             </div>
             <img src={activeImage} alt={`${project.title} screenshot ${activeImageIndex + 1}`} />
             <div className="lightbox-actions">
-              <button className="btn btn-outline small-btn" type="button" onClick={showPreviousImage}>
+              <button className="btn btn-outline small-btn hvr-sweep-to-left" type="button" onClick={showPreviousImage}>
                 Previous
               </button>
-              <button className="btn btn-primary small-btn" type="button" onClick={showNextImage}>
+              <button className="btn btn-primary small-btn hvr-sweep-to-right" type="button" onClick={showNextImage}>
                 Next
               </button>
             </div>
