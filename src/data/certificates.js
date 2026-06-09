@@ -65,7 +65,7 @@ export const certificates = [
   },
   {
     "title": "Associate Data Scientist Python",
-    "issuer": "DQLab",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Data",
     "image": "/certificates/previews/sertifikat-associate-data-scientist-python.jpg",
