@@ -265,7 +265,7 @@ export const certificates = [
   },
   {
     "title": "Intermediate Deep Learning",
-    "issuer": "Training Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Machine Learning",
     "image": "/certificates/previews/sertifikat-intermediate-deep-learning.jpg",
