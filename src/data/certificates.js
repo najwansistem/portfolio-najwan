@@ -137,7 +137,7 @@ export const certificates = [
   },
   {
     "title": "Data Scientist Nasional",
-    "issuer": "Training Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Data",
     "image": "/certificates/previews/sertifikat-data-scientist-nasional.jpg",
@@ -161,7 +161,7 @@ export const certificates = [
   },
   {
     "title": "Data Scientist Supervisor",
-    "issuer": "Professional Certification Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Data",
     "image": "/certificates/previews/sertifikat-data-scientist-supervisor.jpg",
@@ -201,7 +201,7 @@ export const certificates = [
   },
   {
     "title": "Fundamental SQL Using SELECT Statement",
-    "issuer": "Training Program",
+    "issuer": "DQLab",
     "year": "2025-2026",
     "category": "Database",
     "image": "/certificates/previews/sertifikat-fundamental-sql-using-select-statement.jpg",
@@ -209,7 +209,7 @@ export const certificates = [
   },
   {
     "title": "Fundamental of Assistant Web Developer",
-    "issuer": "Training Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "General",
     "image": "/certificates/previews/sertifikat-fundamental-of-assistant-web-developer.jpg",
@@ -217,7 +217,7 @@ export const certificates = [
   },
   {
     "title": "Fundamental of Associate Network Administrator",
-    "issuer": "Professional Certification Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Networking",
     "image": "/certificates/previews/sertifikat-fundamental-of-associate-network-administrator.jpg",
@@ -225,7 +225,7 @@ export const certificates = [
   },
   {
     "title": "Fundamental of Deep Learning Nasional",
-    "issuer": "Professional Certification Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Machine Learning",
     "image": "/certificates/previews/sertifikat-fundamental-of-deep-learning-nasional.jpg",
@@ -249,7 +249,7 @@ export const certificates = [
   },
   {
     "title": "Intermediate Assistant Web Developer",
-    "issuer": "Professional Certification Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Web Development",
     "image": "/certificates/previews/sertifikat-intermediate-assistant-web-developer.jpg",
@@ -257,7 +257,7 @@ export const certificates = [
   },
   {
     "title": "Intermediate Associate Network Administrator",
-    "issuer": "Professional Certification Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Networking",
     "image": "/certificates/previews/sertifikat-intermediate-associate-network-administrator.jpg",
@@ -297,7 +297,7 @@ export const certificates = [
   },
   {
     "title": "Mastery in Deep Learning",
-    "issuer": "Training Program",
+    "issuer": "KOMDIGI",
     "year": "2025-2026",
     "category": "Machine Learning",
     "image": "/certificates/previews/sertifikat-mastery-in-deep-learning.jpg",
