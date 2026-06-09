@@ -72,7 +72,7 @@ function ProjectDetail() {
         <div className="project-detail-hero">
           <div>
             <span className="eyebrow">{project.category}</span>
-            <h1>{project.title}</h1>
+            <h1 className="project-detail-title">{project.title}</h1>
             <p>{project.description}</p>
           </div>
           <img src={project.cover} alt={`${project.title} cover`} />
