@@ -10,7 +10,7 @@ export const projects = [
     solution:
       'The system processes historical stock data, applies preprocessing, performs Fuzzy Time Series Lee prediction, and evaluates prediction accuracy using MAE, MAPE, and RMSE.',
     role: 'Fullstack Developer',
-    tools: ['Python', 'Flask', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
+    tools: ['Python', 'Flask', 'HTML', 'CSS', 'JavaScript'],
     features: [
       'Data upload',
       'Data preprocessing',
