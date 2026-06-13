@@ -5,7 +5,7 @@ export const certificates = [
     "year": "2026",
     "category": "Cloud",
     "image": "/certificates/previews/sertifikat-NAJWAN-MURSYIDAN-AWS-Cloud-Foundation+GenAI-DEX-AWS-Nasional.jpg",
-    "link": "/certificates/Sertifikat-NAJWAN-MURSYIDAN-AWS-Cloud Foundation+GenAI-DEX-AWS-Nasional.pdf"
+    "link": "/certificates/Sertifikat-NAJWAN-MURSYIDAN-AWS-Cloud-Foundation+GenAI-DEX-AWS-Nasional.pdf"
   },
   {
     "title": "Intermediate Cybersecurity + AI Essentials - Google - Nasional",
@@ -13,7 +13,7 @@ export const certificates = [
     "year": "2026",
     "category": "Cybersecurity",
     "image": "/certificates/previews/sertifikat-NAJWAN-MURSYIDAN-Intermediate-Cybersecurity+AI-Essentials-Google-Nasional.jpg",
-    "link": "/certificates/Sertifikat-NAJWAN-MURSYIDAN-Intermediate-Cybersecurity+AI Essentials-Google-Nasional.pdf"
+    "link": "/certificates/Sertifikat-NAJWAN-MURSYIDAN-Intermediate-Cybersecurity+AI-Essentials-Google-Nasional.pdf"
     },
   {
     "title": "Sekolah Pasar Modal",
